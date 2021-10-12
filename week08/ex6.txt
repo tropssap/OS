@@ -1,0 +1,3 @@
+16-bit virtual memmory and each page is 8kb => totaly we have
+2^16 / 2^13 
+(2^13 is 8kb) => answer is 2^3 (it's the number of virtual pages)
