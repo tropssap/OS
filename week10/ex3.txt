@@ -1,0 +1,7 @@
+-rw-r--r--    1 User     UsersGrp         6 Oct 26 23:27 _ex3.txt
+-rw-r--r--    1 User     UsersGrp         6 Oct 26 23:27 _ex3.txt
+-rw-r--r--    1 User     UsersGrp         6 Oct 26 23:27 _ex3.txt
+
+660 User and Group can read and write, no other permissions granted 777 All 
+have all permissions - write, read, execute
+775 Everyone has all permissions, except other cannot write
