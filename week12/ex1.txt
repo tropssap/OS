@@ -12,5 +12,5 @@
   00f0-00ff : fpu
 
 dma1 - Direct Memory Access port
-pic1 - Programmable interrupt controller
+pic1 - Programmable Interrupt Controller
 timer1 - System timer
